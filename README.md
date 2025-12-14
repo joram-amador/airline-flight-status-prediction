@@ -12,21 +12,21 @@ Flight delays and cancellations create many operational and customer issues for 
 This airline dataset is a synthetic dataset created by Sourav Banerjee and can be found at https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset.
 
 Features:
-- Passenger ID - Unique identifier for each passenger
-- First Name - First name of the passenger
-- Last Name - Last name of the passenger
-- Gender - Gender of the passenger
-- Age - Age of the passenger
-- Nationality - Nationality of the passenger
-- Airport Name - Name of the airport where the passenger boarded
-- Airport Country Code - Country code of the airport's location
-- Country Name - Name of the country the airport is located in
-- Airport Continent - Continent where the airport is situated
-- Continents - Continents involved in the flight route
-- Departure Date - Date when the flight departed
-- Arrival Airport - Destination airport of the flight
-- Pilot Name - Name of the pilot operating the flight
-- Flight Status - Current status of the flight
+- *Passenger ID* - Unique identifier for each passenger
+- *First Name* - First name of the passenger
+- *Last Name* - Last name of the passenger
+- *Gender* - Gender of the passenger
+- *Age* - Age of the passenger
+- *Nationality* - Nationality of the passenger
+- *Airport Name* - Name of the airport where the passenger boarded
+- *Airport Country Code* - Country code of the airport's location
+- *Country Name* - Name of the country the airport is located in
+- *Airport Continent* - Continent where the airport is situated
+- *Continents* - Continents involved in the flight route
+- *Departure Date* - Date when the flight departed
+- *Arrival Airport* - Destination airport of the flight
+- *Pilot Name* - Name of the pilot operating the flight
+- *Flight Status* - Current status of the flight
 
 # Target
 Flight Status (classification):
