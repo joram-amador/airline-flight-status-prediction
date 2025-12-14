@@ -1,6 +1,6 @@
 # Airline Flight Status Prediction
 
-# Overview
+# Project Overview
 This project will use machine learning techniques learned in ML Kaggle courses to build a model to predict **a flight's status** using passanger and flight information. 
 
 The goal of this project is to demonstate a machine learning workflow and set up for future operational decision making work.
