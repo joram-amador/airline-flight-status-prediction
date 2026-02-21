@@ -35,7 +35,7 @@ Flight Status (classification):
 - Cancelled
 
 # Evaluation Metric
-The metric chosen for the start is accuracy since the target is categorical and accuracy gives a clear benchmark for the model. However, other metrics will be explored in the future.
+The metric chosen for the start is accuracy since the target is categorical and accuracy gives a clear benchmark for the model.
 
 # Steps:
 1. Exploratory Data Analysis
